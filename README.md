@@ -1,1 +1,0 @@
-# hexo-template
